@@ -7,3 +7,10 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp
+
+
+/**
+ * Diferent tasks
+ * Reset Day button
+ * Rewards for leveling up
+ */
